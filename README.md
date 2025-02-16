@@ -4,14 +4,14 @@ Este projeto é um aplicativo Flutter que permite cadastrar, visualizar, editar 
 
 Funcionalidades
 
-Cadastro de novos planetas
-Listagem de todos os planetas cadastrados
-Edição das informações de um planeta existente
-Exclusão de um planeta do banco de dados
-Exibição de detalhes de um planeta selecionado
+Cadastro de novos planetas;
+Listagem de todos os planetas cadastrados;
+Edição das informações de um planeta existente;
+Exclusão de um planeta do banco de dados;
+Exibição de detalhes de um planeta selecionado.
 
 Tecnologias Utilizadas
 
-Flutter: Framework para desenvolvimento de aplicações multiplataforma
-Dart: Linguagem de programação utilizada no Flutter
-sqflite: Biblioteca para manipulação do banco de dados SQLite no Flutter
+Flutter: Framework para desenvolvimento de aplicações multiplataforma;
+Dart: Linguagem de programação utilizada no Flutter;
+sqflite: Biblioteca para manipulação do banco de dados SQLite no Flutter.
